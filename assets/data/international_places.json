@@ -1,0 +1,204 @@
+{
+  "international_places": [
+    {
+      "title": "Eiffel Tower",
+      "difficulty": "Easy (Landmark)"
+    },
+    {
+      "title": "New York",
+      "difficulty": "Easy (City)"
+    },
+    {
+      "title": "The Great Wall of China",
+      "difficulty": "Medium (Landmark)"
+    },
+    {
+      "title": "London",
+      "difficulty": "Easy (City)"
+    },
+    {
+      "title": "Pyramids of Giza",
+      "difficulty": "Easy (Landmark)"
+    },
+    {
+      "title": "Statue of Liberty",
+      "difficulty": "Medium (Landmark)"
+    },
+    {
+      "title": "Tokyo",
+      "difficulty": "Medium (City)"
+    },
+    {
+      "title": "Paris",
+      "difficulty": "Easy (City)"
+    },
+    {
+      "title": "Rome",
+      "difficulty": "Easy (City)"
+    },
+    {
+      "title": "Sydney Opera House",
+      "difficulty": "Medium (Landmark)"
+    },
+    {
+      "title": "Machu Picchu",
+      "difficulty": "Medium (Landmark)"
+    },
+    {
+      "title": "Mount Everest",
+      "difficulty": "Medium (Natural Feature)"
+    },
+    {
+      "title": "Venice",
+      "difficulty": "Medium (City)"
+    },
+    {
+      "title": "Rio de Janeiro",
+      "difficulty": "Medium (City)"
+    },
+    {
+      "title": "Dubai",
+      "difficulty": "Easy (City)"
+    },
+    {
+      "title": "The Colosseum",
+      "difficulty": "Medium (Landmark)"
+    },
+    {
+      "title": "Chichen Itza",
+      "difficulty": "Difficult (Landmark)"
+    },
+    {
+      "title": "Hollywood Sign",
+      "difficulty": "Medium (Landmark)"
+    },
+    {
+      "title": "The Louvre",
+      "difficulty": "Medium (Landmark)"
+    },
+    {
+      "title": "Australia",
+      "difficulty": "Easy (Country)"
+    },
+    {
+      "title": "Canada",
+      "difficulty": "Easy (Country)"
+    },
+    {
+      "title": "Amazon Rainforest",
+      "difficulty": "Difficult (Natural Feature)"
+    },
+    {
+      "title": "Santorini",
+      "difficulty": "Medium (Island)"
+    },
+    {
+      "title": "Berlin Wall",
+      "difficulty": "Medium (Landmark)"
+    },
+    {
+      "title": "Niagara Falls",
+      "difficulty": "Medium (Natural Feature)"
+    },
+    {
+      "title": "Hagia Sophia",
+      "difficulty": "Difficult (Landmark)"
+    },
+    {
+      "title": "Trans-Siberian Railway",
+      "difficulty": "Very Difficult"
+    },
+    {
+      "title": "Grand Canyon",
+      "difficulty": "Medium (Natural Feature)"
+    },
+    {
+      "title": "Timbuktu",
+      "difficulty": "Difficult (City)"
+    },
+    {
+      "title": "Patagonia",
+      "difficulty": "Difficult (Region)"
+    },
+    {
+      "title": "Leaning Tower of Pisa",
+      "difficulty": "Medium (Landmark)"
+    },
+    {
+      "title": "Kyoto",
+      "difficulty": "Medium (City)"
+    },
+    {
+      "title": "Easter Island Moai",
+      "difficulty": "Difficult (Landmark)"
+    },
+    {
+      "title": "Vienna",
+      "difficulty": "Medium (City)"
+    },
+    {
+      "title": "Kilimanjaro",
+      "difficulty": "Medium (Mountain)"
+    },
+    {
+      "title": "Great Barrier Reef",
+      "difficulty": "Difficult (Natural Feature)"
+    },
+    {
+      "title": "Vatican City",
+      "difficulty": "Medium (City/Country)"
+    },
+    {
+      "title": "Amsterdam",
+      "difficulty": "Medium (City)"
+    },
+    {
+      "title": "Jerusalem",
+      "difficulty": "Medium (City)"
+    },
+    {
+      "title": "Stonehenge",
+      "difficulty": "Medium (Landmark)"
+    },
+    {
+      "title": "Pompeii",
+      "difficulty": "Medium (Ruins)"
+    },
+    {
+      "title": "Auschwitz-Birkenau",
+      "difficulty": "Difficult (Landmark)"
+    },
+    {
+      "title": "Serengeti National Park",
+      "difficulty": "Difficult (Natural Feature)"
+    },
+    {
+      "title": "Fjord",
+      "difficulty": "Very Difficult (Natural Feature)"
+    },
+    {
+      "title": "Auckland",
+      "difficulty": "Medium (City)"
+    },
+    {
+      "title": "The Kremlin",
+      "difficulty": "Medium (Landmark)"
+    },
+    {
+      "title": "Buenos Aires",
+      "difficulty": "Medium (City)"
+    },
+    {
+      "title": "Table Mountain",
+      "difficulty": "Difficult (Natural Feature)"
+    },
+    {
+      "title": "Galapagos Islands",
+      "difficulty": "Difficult (Natural Feature)" 
+    },
+    {
+      "title": "The Parthenon",
+      "difficulty": "Medium (Landmark)"
+    }
+  ]
+}

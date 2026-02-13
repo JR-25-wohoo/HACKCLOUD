@@ -1,0 +1,204 @@
+{
+  "places_india": [
+    {
+      "title": "Taj Mahal",
+      "difficulty": "Easy (Landmark)"
+    },
+    {
+      "title": "Delhi",
+      "difficulty": "Easy (City)"
+    },
+    {
+      "title": "Mumbai",
+      "difficulty": "Easy (City)"
+    },
+    {
+      "title": "Goa",
+      "difficulty": "Easy (One Word)"
+    },
+    {
+      "title": "Jaipur",
+      "difficulty": "Easy (One Word)"
+    },
+    {
+      "title": "Kashmir",
+      "difficulty": "Easy (Region)"
+    },
+    {
+      "title": "Kerala",
+      "difficulty": "Easy (State/Region)"
+    },
+    {
+      "title": "Varanasi",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Golden Temple",
+      "difficulty": "Medium (Landmark)"
+    },
+    {
+      "title": "Red Fort",
+      "difficulty": "Easy (Landmark)"
+    },
+    {
+      "title": "Gateway of India",
+      "difficulty": "Medium (Landmark)"
+    },
+    {
+      "title": "Hawa Mahal",
+      "difficulty": "Medium (Landmark)"
+    },
+    {
+      "title": "Charminar",
+      "difficulty": "Medium (One Word)"
+    },
+    {
+      "title": "Ladakh",
+      "difficulty": "Medium (Region)"
+    },
+    {
+      "title": "Manali",
+      "difficulty": "Medium (One Word)"
+    },
+    {
+      "title": "Ooty",
+      "difficulty": "Easy (One Word)"
+    },
+    {
+      "title": "Hampi",
+      "difficulty": "Easy (One Word)"
+    },
+    {
+      "title": "Ajanta Caves",
+      "difficulty": "Medium (Landmark)"
+    },
+    {
+      "title": "Ellora Caves",
+      "difficulty": "Medium (Landmark)"
+    },
+    {
+      "title": "Rishikesh",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Darjeeling",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Jodhpur",
+      "difficulty": "Medium (One Word)"
+    },
+    {
+      "title": "Alleppey",
+      "difficulty": "Medium (One Word)"
+    },
+    {
+      "title": "Munnar",
+      "difficulty": "Easy (One Word)"
+    },
+    {
+      "title": "Udaipur",
+      "difficulty": "Medium (One Word)"
+    },
+    {
+      "title": "Mysore Palace",
+      "difficulty": "Medium (Landmark)"
+    },
+    {
+      "title": "Qutub Minar",
+      "difficulty": "Medium (Landmark)"
+    },
+    {
+      "title": "Rann of Kutch",
+      "difficulty": "Difficult"
+    },
+    {
+      "title": "Kanyakumari",
+      "difficulty": "Difficult"
+    },
+    {
+      "title": "Pondicherry",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Kolkata",
+      "difficulty": "Medium (One Word)"
+    },
+    {
+      "title": "Hyderabad",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Srinagar",
+      "difficulty": "Medium (One Word)"
+    },
+    {
+      "title": "Simla",
+      "difficulty": "Easy (One Word)"
+    },
+    {
+      "title": "Poo",
+      "difficulty": "Very Difficult (Village name in Himachal Pradesh)"
+    },
+    {
+      "title": "Kutta",
+      "difficulty": "Very Difficult (Village name in Karnataka)"
+    },
+    {
+      "title": "Bhabua",
+      "difficulty": "Difficult (City in Bihar)"
+    },
+    {
+      "title": "Cooch Behar",
+      "difficulty": "Difficult (City in West Bengal)"
+    },
+    {
+      "title": "Panauti",
+      "difficulty": "Very Difficult (Town in Uttar Pradesh)"
+    },
+    {
+      "title": "Cumbum",
+      "difficulty": "Very Difficult (Town in Andhra Pradesh)"
+    },
+    {
+      "title": "Daru",
+      "difficulty": "Very Difficult (Village in Jharkhand)"
+    },
+    {
+      "title": "Ajmer",
+      "difficulty": "Easy (One Word)"
+    },
+    {
+      "title": "Gaya",
+      "difficulty": "Easy (One Word)"
+    },
+    {
+      "title": "Leh",
+      "difficulty": "Easy (One Word)"
+    },
+    {
+      "title": "Lonavala",
+      "difficulty": "Medium"
+    },
+    {
+      "title": "Bhopal",
+      "difficulty": "Medium (One Word)"
+    },
+    {
+      "title": "Madurai",
+      "difficulty": "Medium (One Word)"
+    },
+    {
+      "title": "Gokarna",
+      "difficulty": "Medium (One Word)"
+    },
+    {
+      "title": "Sunderbans",
+      "difficulty": "Medium (Region)"
+    },
+    {
+      "title": "Khajuraho",
+      "difficulty": "Difficult"
+    }
+  ]
+}
