@@ -49,14 +49,14 @@ jobs:
           AWS_REGION: ${{ secrets.AWS_REGION }}
           SOURCE_DIR: build/app/outputs/flutter-apk
 
-     - name: Send Email Notification
-       uses: dawidd6/action-send-mail@v3
-       with:
-         server_address: smtp.gmail.com
-         server_port: 465
-    	 username: ${{ secrets.EMAIL_USERNAME }}
-    	 password: ${{ secrets.EMAIL_PASSWORD }}
-    	 subject: Build Completed ✅
-    	 body: Your APK build finished successfully.
-    	 to: ${{ secrets.EMAIL_TO }}
-    	 from: GitHub CI
+      - name: Send Email Notification
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: Build Completed ✅
+          body: Your APK build finished successfully.
+          to: ${{ secrets.EMAIL_TO }}
+          from: GitHub CI
