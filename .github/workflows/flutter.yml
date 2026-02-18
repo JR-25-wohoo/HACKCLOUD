@@ -41,10 +41,22 @@ jobs:
       - name: Upload APK to S3
         uses: jakejarvis/s3-sync-action@master
         with:
-          args: --acl private
+          args: --acl public-read
         env:
           AWS_S3_BUCKET: hackcloud-apk-storage
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_REGION: ${{ secrets.AWS_REGION }}
           SOURCE_DIR: build/app/outputs/flutter-apk
+
+     - name: Send Email Notification
+       uses: dawidd6/action-send-mail@v3
+       with:
+         server_address: smtp.gmail.com
+         server_port: 465
+    	 username: ${{ secrets.EMAIL_USERNAME }}
+    	 password: ${{ secrets.EMAIL_PASSWORD }}
+    	 subject: Build Completed ✅
+    	 body: Your APK build finished successfully.
+    	 to: ${{ secrets.EMAIL_TO }}
+    	 from: GitHub CI
