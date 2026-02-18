@@ -28,9 +28,11 @@ jobs:
 
       - name: Build APK
         run: flutter build apk --release
-
-      - name: Upload APK
-        uses: actions/upload-artifact@v4
-        with:
-          name: app-release
-          path: build/app/outputs/flutter-apk/app-release.apk
+- name: Upload APK to EC2
+  uses: appleboy/scp-action@v0.1.7
+  with:
+    host: ${{ secrets.EC2_HOST }}
+    username: ${{ secrets.EC2_USER }}
+    key: ${{ secrets.EC2_KEY }}
+    source: build/app/outputs/flutter-apk/app-release.apk
+    target: /home/ubuntu/apk-storage
