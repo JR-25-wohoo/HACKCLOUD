@@ -41,7 +41,7 @@ jobs:
       - name: Upload APK to S3
         uses: jakejarvis/s3-sync-action@master
         with:
-          args: --acl public-read
+          args: ""
         env:
           AWS_S3_BUCKET: hackcloud-apk-storage
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
@@ -57,6 +57,10 @@ jobs:
           username: ${{ secrets.EMAIL_USERNAME }}
           password: ${{ secrets.EMAIL_PASSWORD }}
           subject: Build Completed ✅
-          body: Your APK build finished successfully.
           to: ${{ secrets.EMAIL_TO }}
           from: GitHub CI
+          body: |
+            ✅ Your APK build finished successfully!
+
+            📥 Download APK:
+            https://hackcloud-apk-storage.s3.amazonaws.com/app-release.apk
