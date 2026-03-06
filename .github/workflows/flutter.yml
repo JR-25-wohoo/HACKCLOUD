@@ -49,7 +49,7 @@ jobs:
           to: ${{ secrets.EMAIL_TO }}
           from: GitHub CI
           body: |
-            ✅ Your APK build finished successfully!
+             Your APK build finished successfully!
 
-            📥 Download APK:
+             Download APK:
              https://hackcloud-apk-storage.s3.amazonaws.com/app-release-v${{ github.run_number }}.apk
